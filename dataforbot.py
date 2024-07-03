@@ -35,9 +35,7 @@ hthetadataa={}
 
 RSI_PERIODD=14
 
-x="2t4nsqpgUwk2jL3zD2n6pcndUy61tlhpmLNS9iavoaAcPatjVYzftaJFJF9o8NYR"
-y="mZPpl3G4N5xjVuvZCzSdDm3oJaJBAjcRdbOs5bFfpoJ3LHW24tXL1tvveNH6IiZY"
-client = Client(x,y)
+
 
 def dataclct(str,opens,closes,highs,lows,volumes,dataa,hropens,hrcloses,hrhighs,hrlows,hrvolumes,hrdataa):
     
